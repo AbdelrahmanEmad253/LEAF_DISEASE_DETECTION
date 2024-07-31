@@ -1,3 +1,5 @@
+#LINK TO DATASET:      https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 # importing libraries
 import tensorflow as tf
 
